@@ -11,4 +11,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'new-demo-app';
+  demo='new-launch';
 }
